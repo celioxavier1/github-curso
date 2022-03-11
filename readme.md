@@ -1,5 +1,5 @@
 # Curso de git
-mais uma linha
-fdfdfd
-ssss
-mmmmmmmmm
+
+Este é um repositório para tre3inamento do curso de Git.
+
+
